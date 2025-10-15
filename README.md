@@ -33,6 +33,11 @@ cd desktop-gui-testing
 uv sync
 ```
 
+*Alternatively, if you prefer to use pip:*
+```bash
+pip install -r requirements.txt
+```
+
 ## Running Tests
 
 ### Run All Tests
